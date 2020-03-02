@@ -1,3 +1,6 @@
+#ng g c userregistration
+
+
 # PSE
 UI Test for Principal Software engineers
 
