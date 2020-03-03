@@ -1,4 +1,6 @@
-#ng g c userregistration
+1) Installed Bootstrap
+2) Created a component userregistration (#ng g c userregistration)
+3) see the files to verify the codes
 
 
 # PSE
